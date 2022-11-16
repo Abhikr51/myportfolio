@@ -38,7 +38,7 @@ input,textarea::placeholder{
     box-sizing: border-box;
 }
 .wrapper{
-    background-image: url('../back.jpg');
+    background-image: url('../lens_blur_back.jpg');
     position: fixed;
     height: 100%;
     width: 100%;
@@ -52,7 +52,7 @@ input,textarea::placeholder{
     display: flex;
     /* color : white; */
     color : white;
-    backdrop-filter: blur(10px);
+    /* backdrop-filter: blur(10px); */
     
 }
 .glass {
